@@ -1,0 +1,6 @@
+{
+  "name": "冰箱 AI - AI 智慧冰箱與個人化料理助手",
+  "description": "透過 AI 視覺辨識冰箱食材、依個人化設備與飲食限制生成食譜、支援對話換菜與烹飪後庫存自動扣除。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
